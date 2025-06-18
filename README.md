@@ -11,9 +11,9 @@ A lightweight Java POC for converting between Entities and DTOs with minimal boi
 
 ## Usage
 
-// Converting Entity to DTO
-UsuarioDTO dto = EntityDTOConverter.convertToDTO(usuarioEntity, UsuarioDTO.class);
+- Converting Entity to DTO
+<pre><code>UsuarioDTO dto = EntityDTOConverter.convertToDTO(usuarioEntity, UsuarioDTO.class);</code></pre>
 
-// Converting DTO to Entity
-Usuario entity = EntityDTOConverter.convertToEntity(usuarioDTO, Usuario.class);
+- Converting DTO to Entity
+<pre><code>Usuario entity = EntityDTOConverter.convertToEntity(usuarioDTO, Usuario.class);</code></pre>
 
