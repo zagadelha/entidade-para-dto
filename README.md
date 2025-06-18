@@ -1,6 +1,6 @@
 # Entity to DTO Converter POC
 
-A lightweight Java POC for converting between Entities and DTOs with minimal boilerplate code using MaStruct Framework.
+A lightweight Java POC for converting between Entities and DTOs with minimal boilerplate code using MapStruct Framework.
 
 ## Features
 
